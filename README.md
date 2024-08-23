@@ -6,6 +6,7 @@ You can download the datasets from:
 * UCI: http://konect.cc/networks/opsahl-ucsocial
 * Email-DNC: http://networkrepository.com/email-dnc
 * Bitcoin-alpha: https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html
+
 or download them through the google drive: https://drive.google.com/drive/folders/15AmNpT2QTYjtDG7nD1WsIHQMgYAsUYxL?usp=drive_link
 
 Once you do so, place the files in the 'data' folder and run, e.g:
